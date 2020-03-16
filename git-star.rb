@@ -10,6 +10,6 @@ class GitStar < Formula
   bottle :unneeded
 
   def install
-    bin.install "git-start", "git-test", "git-release", "workflow.library"
+    bin.install "git-start", "git-test", "git-staging", "git-release", "workflow.library" 
   end
 end
