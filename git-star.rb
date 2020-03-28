@@ -1,9 +1,9 @@
 class GitStar < Formula
   desc "A drop dead simple git development workflow"
   homepage "https://github.com/gitgregoryjones/git-star"
-  url "https://codeload.github.com/gitgregoryjones/git-star/tar.gz/v4.4"
-  sha256 "3fbb3bf5e3a109984943295048a527b75f0f2e77a5b95631d4a087f42f38ae0d"
-  version "4.4"
+  url "https://codeload.github.com/gitgregoryjones/git-star/tar.gz/v4.5"
+  sha256 "ced824ab33d88353ba367d1d6d7ca297bb57f07b3c19aa9460ca90e16e83b868"
+  version "4.5"
 
   depends_on "hub"
 
